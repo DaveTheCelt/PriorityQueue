@@ -1,5 +1,5 @@
 # Priority Queue
-<img src="https://user-images.githubusercontent.com/33559521/229620536-e1024395-6c01-46f5-8e43-900c6dcfc17a.png" height="20%" width="20%" />
+<img src="https://user-images.githubusercontent.com/130871588/232256087-6ca12baa-491f-44a2-8687-7bdd1bd6810c.jpeg" height="20%" width="20%" />
                                                                                                                      
 This is a **C#** implementation of a priority Queue. It supports sorting by lowest priority (lower value takes priority) or highest priority (higher value takes priority).
 
